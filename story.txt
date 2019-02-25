@@ -1,2 +1,2 @@
 Once there was a student called James. He was studying Computer Science in the University of Wisconsin-Madison. Even though, he was a senior he really was not sure if he wanted to study CS. Therefore, one day he decided to explore other majors but was not quite sure if he should do that, as that would only mean delayed graduation.
-
+He went to seek help from his advisor. James told his advisor that he didn't like coding and debugging for his projects. The advisor told him that CS is not just about coding. He could join some CS clubs to explore more about CS.
