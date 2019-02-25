@@ -5,3 +5,5 @@ So He joined the machine learning club and started to learn more about how neura
 
 Unfortunately, his AI class involved fully coding a neural network, causing James to burn the midnight oil writing code day after day. However, when he was finished, James was surprised to find how interesting coding a real, useful program could be.
 
+Being confident of his interests now, James was sure  that not only did he want a degree in Bachelors of Computer Science but also pursue a future career in the industry. He went on to be a successful Software Engineer at Google and lived happily ever after.
+
