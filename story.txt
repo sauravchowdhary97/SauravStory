@@ -3,3 +3,5 @@ He went to seek help from his advisor. James told his advisor that he didn't lik
 
 So He joined the machine learning club and started to learn more about how neural networks perform, and eventually developed a strong liking for the theoretical side of computer science.
 
+Unfortunately, his AI class involved fully coding a neural network, causing James to burn the midnight oil writing code day after day. However, when he was finished, James was surprised to find how interesting coding a real, useful program could be.
+
